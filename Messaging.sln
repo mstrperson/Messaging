@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{018DA516-2B9B-48BD-BC21-7B56920CA099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018DA516-2B9B-48BD-BC21-7B56920CA099}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{018DA516-2B9B-48BD-BC21-7B56920CA099}.Debug|anycpu.Build.0 = Debug|anycpu
+		{018DA516-2B9B-48BD-BC21-7B56920CA099}.Release|anycpu.ActiveCfg = Release|anycpu
+		{018DA516-2B9B-48BD-BC21-7B56920CA099}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
